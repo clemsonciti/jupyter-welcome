@@ -1,8 +1,0 @@
-name: welcome-environment
-
-dependencies:
-  - python=3.4
-  - numpy
-  - matplotlib
-  - pandas
-  - bokeh
